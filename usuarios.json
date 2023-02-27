@@ -1,0 +1,30 @@
+{
+  "login": [
+    {
+      "usuario": "Angel",
+      "contraseña": "a"
+    },
+    {
+      "usuario": "Raquel",
+      "contraseña": "a"
+    }
+  ],
+  "configuracion": {
+    "Tipo": [
+      "Alumno",
+      "Profesor"
+    ]
+  },
+  "personas": [
+    {
+      "Nombre": "bbbbbb",
+      "Tipo": "Alumno",
+      "id": 2
+    },
+    {
+      "Nombre": "aaaaaaa",
+      "Tipo": "Profesor",
+      "id": 3
+    }
+  ]
+}
