@@ -17,14 +17,14 @@
   },
   "personas": [
     {
-      "Nombre": "bbbbbb",
-      "Tipo": "Alumno",
-      "id": 2
-    },
-    {
-      "Nombre": "aaaaaaa",
+      "Nombre": "zzzz",
       "Tipo": "Profesor",
       "id": 3
+    },
+    {
+      "Nombre": "zzzzzzz",
+      "Tipo": "Alumno",
+      "id": 4
     }
   ]
 }

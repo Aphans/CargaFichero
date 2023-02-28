@@ -16,7 +16,7 @@ const router = createRouter({
        name:'Controller',
        component:Controller,
        props: route => ({ usuario: route.query.usuario })
-    }
+    },
   ]
 })
 
